@@ -2,8 +2,8 @@
 This is just a simple IP reputation checker automation
 
 **Bulk IP reputation checker. Queries VirusTotal + AbuseIPDB and tells you what to block.**
-185.220.101.47    VT:✓  Abuse:✓  →  BLOCK
-8.8.8.8           VT:✗  Abuse:✗  →  benign
+185.220.101.47    VT:HIT  Abuse:HIT  →  BLOCK
+8.8.8.8           VT:NO HIT  Abuse:NO HIT  →  benign
 
 **Both sources must flag an IP for it to be marked BLOCK.**
 
