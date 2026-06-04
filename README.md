@@ -16,7 +16,7 @@ pip install requests
 
 **Usage**
 
-bashpython3 ipcheck.py ips.txt --vt YOUR_VT_KEY --abuse YOUR_ABUSE_KEY
+python3 ipcheck.py ips.txt --vt YOUR_VT_KEY --abuse YOUR_ABUSE_KEY
 
 
 **
